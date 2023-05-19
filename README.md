@@ -10,7 +10,7 @@ To compile:
 To execute: 
  > Navigate to src folder 
 
- > java Main
+ > java ./numberrangesummarizer/Main
 
 JUnit Testing: 
 
