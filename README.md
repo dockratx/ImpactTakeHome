@@ -14,4 +14,4 @@ To execute:
 
 JUnit Testing: 
 
-Preferable to run SummarizerTests.java via and IDE.
+Preferable to run SummarizerTests.java via an IDE.
